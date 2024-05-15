@@ -1,0 +1,20 @@
+algorithm:typeword (word type-noun)
+algorithm:mean- a set of mathematical instructions or rules that, especially if given to a computer, will help to calculate an answer to a problem
+algorithm:Ex- Music apps use algorithms to predict the probability that fans of one particular band will like another.
+hello:typeword (word type-exclamation, noun)
+hello:mean- used when meeting or greeting someone
+hello:Ex- Hello, Paul. I haven't seen you for ages.
+hello:mean- something that is said at the beginning of a phone conversation
+hello:Ex- Hello, I'd like some information about flights to the US, please.
+hello:mean- something that is said to attract someone's attention
+hello:Ex- The front door was open so she walked inside and called out-Hello! Is there anybody in?
+structure:typeword (word type-noun)
+structure:mean- the way in which the parts of a system or object are arranged or organized, or a system arranged in this way
+structure:Ex- the grammatical structure of a sentence
+structure:typeword (verb)
+structure:mean- to plan, organize, or arrange the parts of something
+structure:Ex- We must carefully structure and rehearse each scene.
+data:typewordn (noun)
+data:mean- information, especially facts or numbers, collected to be examined and considered and used to help decision-making, or information in an electronic form that can be stored and used by a computer
+data:Ex- The data was/were collected by various researchers.
+
